@@ -1,0 +1,6 @@
+git init
+git add --all
+git commit -m "commiting files"
+git remote add origin https://github.com/Pranithareddy1234/Test.git
+git branch -M main
+git push -u origin main
